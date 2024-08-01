@@ -15,9 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+            I am a fresher who loves working on web applications using technologies like React, Tailwind, and Next.js. I recently graduated from Asansol Engineering College with a degree in Electronics and Communication Engineering, achieving an 8.79 CGPA. My skill set includes React, Tailwind, MySQL, Data Structures and Algorithms (DSA), and Core Java.
           </p>
 
           <div>
