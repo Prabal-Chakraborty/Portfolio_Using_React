@@ -12,10 +12,9 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Developer
+            I'm a Frontend Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I am a fresher who loves working on web applications using technologies like React, Tailwind, and Next.js. I recently graduated from Asansol Engineering College with a degree in Electronics and Communication Engineering, achieving an 8.79 CGPA. My skill set includes React, Tailwind, MySQL, Data Structures and Algorithms (DSA), and Core Java.
           </p>
 
           <div>
@@ -46,3 +45,4 @@ const Home = () => {
 };
 
 export default Home;
+
