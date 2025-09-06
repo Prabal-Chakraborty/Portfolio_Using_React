@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Frontend Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Frontend Developer at TCS | Skilled in Angular (8 & 19), TypeScript, Tailwind, CesiumJS, OpenLayers & 3D Visualization | Passionate about building scalable, user-focused applications.
+            Skilled in Angular (8 & 19), TypeScript, Tailwind, CesiumJS, OpenLayers & 3D Visualization | Passionate about building scalable, user-focused applications.
           </p>
 
           <div>
@@ -46,5 +46,6 @@ const Home = () => {
 };
 
 export default Home;
+
 
 
