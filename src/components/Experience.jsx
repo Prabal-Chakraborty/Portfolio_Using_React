@@ -50,18 +50,36 @@ const Experience = () => {
     },
     {
       id: 7,
+      src: angular,
+      title: "Angular",
+      style: "shadow-red-500",
+    },
+    {
+      id: 8,
+      src: cesiumjs,
+      title: "Cesium JS",
+      style: "shadow-blue-200",
+    },
+    {
+      id: 9,
+      src: chartjs,
+      title: "Chart JS",
+      style: "shadow-pink-300",
+    },
+    {
+      id: 10,
       src: java,
       title: "Core Java",
       style: "shadow-red-400",
     },
     {
-      id: 8,
+      id: 11,
       src: Dsa,
       title: "Data Structure & Algorithms",
       style: "shadow-blue-500",
     },
     {
-      id: 9,
+      id: 12,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
@@ -98,3 +116,4 @@ const Experience = () => {
 };
 
 export default Experience;
+
