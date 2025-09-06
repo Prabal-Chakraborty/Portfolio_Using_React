@@ -14,17 +14,16 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Result-oriented Electronics and Communication Engineering student with a strong skill set in Java, DSA, HTML, CSS, and JavaScript. Experienced in frontend development and proficient in frameworks like Tailwind CSS and React.js. Enthusiastic about MERN Stack and committed to staying updated with the latest industry trends. Ready to leverage my programming expertise to deliver efficient and innovative solutions.
-        </p>
+I’m a Frontend Developer at TCS with 1+ years of experience in building scalable and interactive web applications. Skilled in Angular (8 & 19), TypeScript, Tailwind, PrimeFlex, CesiumJS, OpenLayers Maps, eCharts, GeoServer, and Godot Engine, with hands-on exposure to map-based solutions and 3D visualization.        </p>
 
         <br />
 
         <p className="text-xl">
-        In addition to my technical skills, I am actively involved in extracurricular activities as the Treasurer of the IEEE AEC Student Branch Chapter and a core committee member of the AEC Hardware Club. Ready to leverage my programming expertise and leadership experience to deliver efficient and innovative solutions.
-        </p>
+Passionate about creating user-centric designs, data-driven dashboards, and high-performance applications. Always eager to learn, collaborate, and explore new opportunities in the frontend and visualization space        </p>
       </div>
     </div>
   );
 };
 
 export default About;
+
